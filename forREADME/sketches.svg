@@ -1,0 +1,42 @@
+<svg width="750" height="750" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        figure {
+          position: relative;
+          width: 700px;
+          height: 700px;
+        }
+
+        figcaption {
+          position: absolute;
+          top: 525px;
+          right: 0;
+          width: 24px;
+          height: 180px;
+          line-height: 24px;
+          font-size: 14px;
+          font-weight: bold;
+          text-align: center;
+          color: white;
+          text-transform: uppercase;
+          writing-mode: vertical-rl;
+        }
+
+        img {
+          border: 5px solid #555;
+          max-width: 100%;
+        }
+      </style>
+
+      <div>
+        <figure>
+          <img
+            src="https://github.com/charlesdungy/sketchbook/blob/main/sketches/chaos_tiles_041523.png?raw=true">
+          </img>
+          <figcaption>Chaos Tiles 041523</figcaption>
+        </figure>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
