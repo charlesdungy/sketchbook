@@ -1,6 +1,6 @@
 # sketchbook
 
-A collection generative art sketches I've made with Processing (v4.2).
+A collection of generative art sketches I've made with Processing (v4.2).
 
 ## Some Samples
 
